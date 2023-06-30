@@ -10,6 +10,7 @@ export const Skills = () => {
             showcases my technical abilities and experience in a visually
             engaging way, allowing you to quickly understand my strengths and
             expertise.
+            
           </p>
         </div>
         <div class="skills-bottom">
