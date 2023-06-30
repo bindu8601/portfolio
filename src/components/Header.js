@@ -1,43 +1,33 @@
 import "../style.css";
 export const Header = () => {
+  const navItems = [
+    { id: "main", text: "Home", dataAfter: "Home" },
+    { id: "skills", text: "Skills", dataAfter: "Skills" },
+    { id: "projects", text: "Projects", dataAfter: "Projects" },
+    { id: "about", text: "About", dataAfter: "About" },
+    { id: "contact", text: "Contact", dataAfter: "Contact" }
+  ];
+
   return (
     <section id="header">
-      <div class="header container">
-        <div class="navbar">
-          <div class="brand">
+      <div className="header container">
+        <div className="navbar">
+          <div className="brand">
             <a href="#main">
               <h1>
                 <span>B</span>indu <span>E</span>ppalapalle
               </h1>
             </a>
           </div>
-          <div class="nav-list">
+          <div className="nav-list">
             <ul>
-              <li>
-                <a href="#main" data-after="Home">
-                  Home
-                </a>
-              </li>
-              <li>
-                <a href="#skills" data-after="Skills">
-                  Skills
-                </a>
-              </li>
-              <li>
-                <a href="#projects" data-after="Projects">
-                  Projects
-                </a>
-              </li>
-              <li>
-                <a href="#about" data-after="About">
-                  About
-                </a>
-              </li>
-              <li>
-                <a href="#contact" data-after="Contact">
-                  contact
-                </a>
-              </li>
+              {navItems.map((item) => (
+                <li key={item.id}>
+                  <a href={`#${item.id}`} data-after={item.dataAfter}>
+                    {item.text}
+                  </a>
+                </li>
+              ))}
             </ul>
           </div>
         </div>
