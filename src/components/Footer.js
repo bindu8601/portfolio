@@ -8,7 +8,7 @@ export const Footer = () => {
             <span>B</span>indu <span>E</span>ppalapalle
           </h1>
         </div>
-        <h2>frontend developer</h2>
+        <h2>Software Developer</h2>
         <div class="social-icon">
           <div class="social-item">
             <a href="https://www.instagram.com/bindu_.e/">
@@ -21,7 +21,6 @@ export const Footer = () => {
             </a>
           </div>
         </div>
-        <p>Copyright 2023 Bindu. All rights reserved</p>
       </div>
     </section>
   );
