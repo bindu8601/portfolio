@@ -9,7 +9,9 @@ const ProjectCard = ({ title, subtitle, description, link, image }) => {
         <h1>{title}</h1>
         <h2>{subtitle}</h2>
         <p>{description}</p>
-        <a href={link}>Project Link</a>
+        <a href={link} target="blank">
+          Project Link
+        </a>
       </div>
       <div className="project-img">
         <img src={image} alt="project" />

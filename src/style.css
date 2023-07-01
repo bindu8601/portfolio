@@ -396,7 +396,6 @@ p {
 }
 #contact .contact-items {
   width: 400px;
-  transition: 0.3s ease box-shadow;
 }
 #contact .contact-item {
   width: 80%;
@@ -408,11 +407,12 @@ p {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+#contact .contact-items .contact-item:hover {
   box-shadow: 0px 0px 18px 0 #0000002c;
+  cursor: pointer;
 }
-#contact .contact-items :hover {
-  box-shadow: 0px 0px 5px 0 #0000002c;
-}
+
 #contact .icon {
   width: 70px;
   margin: 0 auto;
@@ -428,11 +428,7 @@ p {
   line-height: 2rem;
   font-weight: 500;
 }
-#contact .contact-info a {
-  font-size: 1.3rem;
-  line-height: 2rem;
-  font-weight: 500;
-}
+
 #footer {
   background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 }

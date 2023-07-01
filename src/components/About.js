@@ -32,6 +32,7 @@ export const About = () => {
           <a
             class="cta"
             href="https://drive.google.com/file/d/11m6hlHvUSACgsN2I16w3gd1DmmJRXWAS/view?usp=sharing"
+            target="blank"
           >
             My Resume
           </a>
