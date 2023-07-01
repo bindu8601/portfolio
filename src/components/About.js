@@ -31,7 +31,7 @@ export const About = () => {
           </p>
           <a
             class="cta"
-            href="https://drive.google.com/file/d/1n-4sx4iKr3KMap25EWsKXBc-i74Cy62t/view?usp=sharing"
+            href="https://drive.google.com/file/d/11m6hlHvUSACgsN2I16w3gd1DmmJRXWAS/view?usp=sharing"
           >
             My Resume
           </a>
