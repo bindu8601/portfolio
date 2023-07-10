@@ -326,11 +326,9 @@ p {
   flex-basis: 50%;
   height: 300px;
   overflow: hidden;
-  position: relative;
 }
 #projects .project-img::after {
   content: "";
-  position: absolute;
   left: 0;
   top: 0;
   height: 100%;

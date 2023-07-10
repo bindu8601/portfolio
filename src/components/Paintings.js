@@ -4,6 +4,7 @@ import paint1 from "../assets/IMG_20230624_161147.jpg";
 import paint2 from "../assets/Snapchat-1205523476.jpg";
 import paint3 from "../assets/Snapchat-1928086197.jpg";
 import paint4 from "../assets/Snapchat-2115593192.jpg";
+import dance1 from "../assets/VID_20230701130044.mp4";
 
 export const Painting = () => {
   const paintings = [paint1, paint2, paint3, paint4]; // Array of painting images
