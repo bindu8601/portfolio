@@ -16,22 +16,22 @@ export const About = () => {
             Currently Working as a Front-End-Developer at TEG-Analytics. I am
             excited to join a team that values innovation and high-quality user
             experiences. I have experience in creating visually appealing and
-            responsive web pages using HTML, CSS, and JavaScript. My attention
-            to detail and logical thinking skills enable me to create clean and
+            responsive web pages using React and JavaScript. My attention to
+            detail and logical thinking skills enable me to create clean and
             organized code that is easy to maintain and troubleshoot. I have
-            experience with popular front-end framework such as React as well as
-            Tailwind CSS. In addition, I have a good understanding of UX/UI
-            principles and best practices, which allows me to create
-            user-friendly interfaces that meet the needs of end-users. My
-            ability to work in a fast-paced environment and adapt to changing
-            priorities has been an asset in my previous work experiences. I am
-            also comfortable with version control systems like Git. Overall, I
-            am a self-motivated and creative front-end developer with a passion
-            for creating visually stunning and user-friendly web pages.
+            experience with Tailwind CSS. In addition, I have a good
+            understanding of UX/UI principles and best practices, which allows
+            me to create user-friendly interfaces that meet the needs of
+            end-users. My ability to work in a fast-paced environment and adapt
+            to changing priorities has been an asset in my previous work
+            experiences. I am also comfortable with version control systems like
+            Git. Overall, I am a self-motivated and creative front-end developer
+            with a passion for creating visually stunning and user-friendly web
+            pages.
           </p>
           <a
             class="cta"
-            href="https://drive.google.com/file/d/11m6hlHvUSACgsN2I16w3gd1DmmJRXWAS/view?usp=sharing"
+            href="https://drive.google.com/file/d/1GHIEWuFb_qB13--ZuebAu1SunjqXlp1W/view?usp=sharing"
             target="blank"
           >
             My Resume

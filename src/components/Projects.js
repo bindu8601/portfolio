@@ -46,7 +46,7 @@ export const Projects = () => {
     <section id="projects">
       <div className="projects container">
         <div className="projects-header">
-          <h1 className="section-title">Recent projects</h1>
+          <h1 className="section-title">Personal projects</h1>
         </div>
         <div className="all-projects">
           {projectData.map((project, index) => (
