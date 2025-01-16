@@ -14,10 +14,10 @@ function App() {
       <MainSection />
       <Skills />
       <Projects />
-      <Painting />
+      {/* <Painting /> */}
       <About />
       <Contact />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }

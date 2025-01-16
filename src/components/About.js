@@ -1,5 +1,5 @@
 import "../style.css";
-import myimage from "../assets/IMG_20230505_103945.jpg";
+import myimage from '../assets/IMG_20241213_105923.jpg'
 export const About = () => {
   return (
     <section id="about">
@@ -11,23 +11,9 @@ export const About = () => {
         </div>
         <div class="col-right">
           <h1 class="section-tite">About Me</h1>
-          <h2>Front End Developer</h2>
+          <h2>Software Development Engineer</h2>
           <p>
-            Currently Working as a Front-End-Developer at TEG-Analytics. I am
-            excited to join a team that values innovation and high-quality user
-            experiences. I have experience in creating visually appealing and
-            responsive web pages using React and JavaScript. My attention to
-            detail and logical thinking skills enable me to create clean and
-            organized code that is easy to maintain and troubleshoot. I have
-            experience with Tailwind CSS. In addition, I have a good
-            understanding of UX/UI principles and best practices, which allows
-            me to create user-friendly interfaces that meet the needs of
-            end-users. My ability to work in a fast-paced environment and adapt
-            to changing priorities has been an asset in my previous work
-            experiences. I am also comfortable with version control systems like
-            Git. Overall, I am a self-motivated and creative front-end developer
-            with a passion for creating visually stunning and user-friendly web
-            pages.
+          Currently, I work as a Software Development Engineer at HealthWorksAI, where I contribute to building innovative and high-quality user experiences. I specialize in creating visually appealing and responsive web pages using React and JavaScript, with a strong proficiency in Tailwind CSS. I also have a foundational understanding of Node.js, Express, and SQL, which complements my front-end skills and broadens my development capabilities. My attention to detail and logical thinking enable me to produce clean, organized, and maintainable code. I have a good grasp of UX/UI principles, ensuring the interfaces I create are user-friendly and meet the needs of end-users. Additionally, I am adept at working in fast-paced environments, quickly adapting to changing priorities, and collaborating effectively using version control systems like Git. As a self-motivated and creative developer, I am passionate about crafting visually stunning and user-centric web solutions.
           </p>
           <a
             class="cta"
