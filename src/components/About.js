@@ -17,7 +17,7 @@ export const About = () => {
           </p>
           <a
             class="cta"
-            href="https://drive.google.com/file/d/1GHIEWuFb_qB13--ZuebAu1SunjqXlp1W/view?usp=sharing"
+            href="https://drive.google.com/file/d/1BVGaQTZ_eMbdDApdYLk_xK7zRa6c2HXG/view?usp=sharing"
             target="blank"
           >
             My Resume
